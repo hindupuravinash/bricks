@@ -1,12 +1,48 @@
 <resources>
 
-   <style name="Widget.Bricks.Headline" parent="android:Widget">
+    <style name="Widget.Bricks.Display4" parent="android:Widget">
+        <item name="android:textSize">112sp</item>
+    </style>
+
+    <style name="Widget.Bricks.Display3" parent="android:Widget">
+        <item name="android:textSize">56sp</item>
+    </style>
+
+    <style name="Widget.Bricks.Display2" parent="android:Widget">
+        <item name="android:textSize">45sp</item>
+    </style>
+    
+    <style name="Widget.Bricks.Display1" parent="android:Widget">
+        <item name="android:textSize">34sp</item>
+    </style>
+
+    <style name="Widget.Bricks.Headline" parent="android:Widget">
         <item name="android:textSize">24sp</item>
-  </style>
-  <style name="Widget.Bricks.Title" parent="android:Widget">
+    </style>
+
+    <style name="Widget.Bricks.Title" parent="android:Widget">
         <item name="android:textSize">20sp</item>
-  </style>
-   <style name="Widget.Bricks.Subhead" parent="android:Widget">
+    </style>
+
+    <style name="Widget.Bricks.Subhead" parent="android:Widget">
         <item name="android:textSize">16sp</item>
-  </style>
+    </style>
+
+    <style name="Widget.Bricks.Body2" parent="android:Widget">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="Widget.Bricks.Body1" parent="android:Widget">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="Widget.Bricks.Caption" parent="android:Widget">
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="Widget.Bricks.Button" parent="android:Widget">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+
 </resources>
