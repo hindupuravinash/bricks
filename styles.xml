@@ -1,0 +1,12 @@
+<resources>
+
+   <style name="Widget.Bricks.Headline" parent="android:Widget">
+        <item name="android:textSize">24sp</item>
+  </style>
+  <style name="Widget.Bricks.Title" parent="android:Widget">
+        <item name="android:textSize">20sp</item>
+  </style>
+   <style name="Widget.Bricks.Subhead" parent="android:Widget">
+        <item name="android:textSize">16sp</item>
+  </style>
+</resources>
